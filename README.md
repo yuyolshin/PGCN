@@ -6,7 +6,7 @@ This is a PyTorch implementation of Progressive Graph Convolutional Network in t
 The paper is currently under review for KDD '22.
 
 ## Progressive Graph Construction
-![image](https://user-images.githubusercontent.com/31876093/153813757-0f18e904-c3a2-4f73-ac23-4b2c5ba6420d.png)
+![image](https://user-images.githubusercontent.com/31876093/153814609-2cfce4c7-fedb-4f09-b9ca-2de67ab27f89.png)
 
 Using adjusted cosine similarity values, the model constructs progressive graph to reflect the changes in traffic states at each time step. 
 
