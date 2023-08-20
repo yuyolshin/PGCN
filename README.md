@@ -1,8 +1,8 @@
-# PGCN: Progressive Graph Convolutional Network for Spatial-Temproal Traffic Forecasting
+# PGCN: Progressive Graph Convolutional Network for Spatial-Temporal Traffic Forecasting
 
 ![image](https://user-images.githubusercontent.com/31876093/153813727-71ffc4aa-8ced-401e-bfa0-a72fc088b319.png)
 
-This is a PyTorch implementation of Progressive Graph Convolutional Network in the paper entitled "PGCN: Progressive Graph Convolutional Network for Spatial-Temproal Traffic Forecasting"
+This is a PyTorch implementation of Progressive Graph Convolutional Network in the paper entitled "PGCN: Progressive Graph Convolutional Network for Spatial-Temporal Traffic Forecasting"
 The paper is currently under review for KDD '22.
 
 ## Progressive Graph Construction
@@ -20,7 +20,7 @@ Using adjusted cosine similarity values, the model constructs progressive graph 
 #### Results
 ![image](https://user-images.githubusercontent.com/31876093/153811602-29dd99a7-5cc9-48a6-9962-ee6ecb7714a8.png)
 
-Evaluation results on four real-world datasets shows that our model consistently outputs state-of-the-art results.
+Evaluation results on four real-world datasets show that our model consistently outputs state-of-the-art results.
 
 ##
 ##### code implementation
